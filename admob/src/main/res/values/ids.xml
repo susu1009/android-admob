@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Asset view ids for native layouts (built-in and custom). -->
+    <item name="admob_headline" type="id" />
+    <item name="admob_body" type="id" />
+    <item name="admob_call_to_action" type="id" />
+    <item name="admob_icon" type="id" />
+    <item name="admob_media" type="id" />
+    <item name="admob_advertiser" type="id" />
+    <item name="admob_stars" type="id" />
+    <item name="admob_price" type="id" />
+    <item name="admob_store" type="id" />
+    <item name="admob_badge" type="id" />
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="admob_native_background">#FF1F1F1F</color>
+    <color name="admob_native_stroke">#33FFFFFF</color>
+    <color name="admob_native_title">#DEFFFFFF</color>
+    <color name="admob_native_body">#99FFFFFF</color>
+    <color name="admob_native_cta_background">#FF8AB4F8</color>
+    <color name="admob_native_cta_text">#FF202124</color>
+    <color name="admob_loading_card">#FF2A2A2A</color>
+    <color name="admob_loading_text">#DEFFFFFF</color>
+</resources>
